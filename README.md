@@ -8,6 +8,14 @@ The project is designed as a **closed-loop AI recovery system** that moves beyon
 
 ---
 
+## 🏗️ System Architecture
+
+<p align="center">
+      <img src="images/architecture.png" alt="AI Revenue Recovery Agent Architecture" width="100%">
+</p>
+
+---
+
 ## Problem
 
 Payment failures can result in significant revenue loss.
@@ -87,21 +95,43 @@ This provides bounded automation with stopping controls and a complete audit tra
 
 ---
 
-## Product Screens
+## 📸 Product Screenshots
 
-### Dashboard
+### 🏠 Revenue Recovery Dashboard
+
+<p align="center">
+      <img src="images/dashboard.png" alt="Revenue Recovery Dashboard" width="100%">
+</p>
 
 The dashboard provides a portfolio-level overview of revenue at risk, recovered revenue, recovery rate, case status, and intervention distribution.
 
-### Demo Simulation
+---
+
+### 🤖 AI Recovery Simulation
+
+<p align="center">
+      <img src="images/demo_simulation.png" alt="AI Recovery Simulation" width="100%">
+</p>
 
 The Demo Simulation generates a merchant payment cohort and runs the complete recovery pipeline through risk detection, diagnosis, policy evaluation, execution, and verification.
 
-### Recovery Cases
+---
+
+### 📋 Recovery Cases
+
+<p align="center">
+      <img src="images/recovery_cases.png" alt="Recovery Cases" width="100%">
+</p>
 
 Recovery cases provide a searchable and filterable view of payments processed by the agent, including amount at risk, diagnosis, probability, recommended action, policy, execution, and verification results.
 
-### Case Detail and Timeline
+---
+
+### 🔍 Case Lifecycle
+
+<p align="center">
+      <img src="images/case_detail.png" alt="Recovery Case Detail" width="100%">
+</p>
 
 Each recovery case includes payment, customer, diagnosis, recovery, policy, execution, verification, and a dynamically generated lifecycle timeline.
 
